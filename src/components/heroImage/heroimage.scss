@@ -1,0 +1,86 @@
+@import '../../_variables';
+
+.hero-wrapper {
+  width: $container-xl;
+  flex-direction: row;
+  height: 100%;
+  display: flex;
+  border: 1px solid #eeeeee;
+}
+
+//watch
+.hero-left {
+  display: flex;
+  align-self: center;
+  width: 25%;
+
+  img {
+    width: 100%;
+  }
+}
+
+// hand with watch (new men watch)
+.hero-right {
+  background-color: $hero-image-color;
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+
+  :nth-child(1) {
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      margin-right: 0;
+      margin-left: auto;
+    }
+  }
+}
+
+.hero-down {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+
+  align-items: stretch;
+  justify-content: stretch;
+  min-height: 95px;
+
+  :nth-child(1) {
+    background-color: $header-color1;
+    flex: 2;
+
+    text-align: center;
+    color: $background-color;
+  }
+  :nth-child(2) {
+    background-color: $header-color2;
+    flex: 1;
+  }
+  :nth-child(3) {
+    background-color: $header-color3;
+    flex: 1;
+  }
+}
+
+.hero-maintext {
+  font-size: 1em;
+}
+
+@media (min-width: 576px) {
+  .hero-maintext {
+    font-size: 1.25em;
+  }
+}
+
+@media (min-width: 992px) {
+  .hero-maintext {
+    font-size: 1.5em;
+  }
+}
+
+@media (min-width: 1200px) {
+  .hero-maintext {
+    font-size: 1.8em;
+  }
+}

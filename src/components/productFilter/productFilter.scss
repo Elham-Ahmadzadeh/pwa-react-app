@@ -1,0 +1,39 @@
+@import '../../_variables';
+
+main {
+  width: $container-xl;
+  max-width: $container-xl;
+  margin-bottom: 30px;
+  ul {
+    display: flex;
+    flex-direction: row;
+    width: 50vw;
+    height: 10%;
+    justify-content: space-around;
+    padding: 2rem;
+    p {
+      font-family: $default-font;
+      font-size: 1.15em;
+      font-weight: 300;
+      cursor: pointer;
+    }
+  }
+}
+.product-filter-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  p {
+    display: block;
+
+    margin: 50px 30px 30px 0px;
+    padding: 10px 0 10px;
+    font-family: $default-font;
+    font-size: 1.15em;
+    font-weight: 300;
+    cursor: pointer;
+  }
+}
+.product-list-selected {
+  text-decoration: underline;
+}

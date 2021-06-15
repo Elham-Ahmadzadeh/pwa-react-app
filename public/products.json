@@ -1,0 +1,226 @@
+[
+  {
+    "id": "9fef9200c-b88a-4c92-818d-0ba5bbb23d4b",
+    "sku": "GU58048988",
+    "name": "GUCCI Stainless Steel",
+    "price": 99.0,
+    "inStock": true,
+    "isNew": true,
+    "isGender": "male",
+    "image": "./images/GU58048988.jpg"
+  },
+  {
+    "id": "f732c22f-71ec-49b8-94dd-9d21ca0c7622",
+    "sku": "KOM-W4071",
+    "name": "Lewis Cognac",
+    "price": 89.0,
+    "inStock": true,
+    "isNew": false,
+    "isGender": "male",
+    "image": "./images/KOM-W4071.jpg"
+  },
+  {
+    "id": "b4342c44-1564-44e5-8beb-7937024f6434",
+    "sku": "GU5022351",
+    "name": "GUCCI Women",
+    "price": 699.0,
+    "inStock": true,
+    "isNew": true,
+    "gender": "f",
+    "image": "./images/GU5022351.jpg"
+  },
+
+  {
+    "id": "1f83602f-9b7d-4040-87b4-ecc37ec878a6",
+    "sku": "KOM-W2272",
+    "name": "Winston Regal Nato Black",
+    "price": 85.0,
+    "inStock": true,
+    "isNew": false,
+    "isGender": "male",
+    "image": "./images/KOM-W2272.jpg"
+  },
+  {
+    "id": "fd0520d2-3c96-43b0-94ad-f708ecfe7c4e",
+    "sku": "KOM-W3052",
+    "name": "Winston Regal Nato Black",
+    "price": 85.0,
+    "inStock": true,
+    "isNew": false,
+    "isGender": "male",
+    "image": "./images/KOM-W3052.jpg"
+  },
+  {
+    "id": "af9c744f-0d16-4a78-8672-5913d9179afd",
+    "sku": "KOM-W1235",
+    "name": "Moneypenny Black Silver",
+    "price": 49.0,
+    "inStock": true,
+    "isNew": false,
+    "gender": "f",
+    "image": "./images/KOM-W1235.jpg"
+  },
+  {
+    "id": "f1c24b38-cba2-45c8-ac7a-ccd1bbf37016",
+    "sku": "KOM-W3053",
+    "name": "Winston Double Subs Green",
+    "price": 129.0,
+    "inStock": true,
+    "isNew": false,
+    "isGender": "male",
+    "image": "./images/KOM-W3053.jpg"
+  },
+
+  {
+    "id": "722a16cd-7535-4b93-a85f-109f58acf68f",
+    "sku": "OMD6053001",
+    "name": "OMEGA de ville prestige quartz",
+    "price": 1499.0,
+    "inStock": true,
+    "isNew": true,
+    "isGender": "male",
+    "image": "./images/omega6053001.jpg"
+  },
+  {
+    "id": "d1237a0d-9999-4634-bc63-2977f7852bbf",
+    "sku": "KOM-W4128",
+    "name": "Harlow Estate Silver Mirror",
+    "price": 99.0,
+    "inStock": true,
+    "isNew": false,
+    "isGender": "male",
+    "image": "./images/KOM-W4128.jpg"
+  },
+
+  {
+    "id": "1b21239a-3cec-4b42-9ffa-7ce9c18bfca6",
+    "sku": "KOM-W4310",
+    "name": "Mono Tag White",
+    "price": 58.0,
+    "inStock": false,
+    "isNew": false,
+    "gender": "f",
+    "image": "./images/KOM-W4310.jpg"
+  },
+  {
+    "id": "5bc6465f-2ae9-45bb-b005-d15fd69304e0",
+    "sku": "KNZ580497",
+    "name": "KENZO",
+    "price": 130.0,
+    "inStock": false,
+    "isNew": false,
+    "isGender": "male",
+    "image": "./images/KNZ580497.jpg"
+  },
+  {
+    "id": "fcc7a315-da8a-4c54-a542-80ae8303d981",
+    "sku": "KOM-W4062",
+    "name": "Lewis Cognac",
+    "price": 99.0,
+    "inStock": true,
+    "isNew": false,
+    "isGender": "male",
+    "image": "./images/KOM-W4062.jpg"
+  },
+  {
+    "id": "2e5a6e09-d61f-46e5-b7dc-988a12982bef",
+    "sku": "MK58048475",
+    "name": "MICHAEL KORS - CORTLANDT",
+    "price": 289.0,
+    "inStock": true,
+    "isNew": false,
+    "isGender": "male",
+    "image": "./images/MK58048475.jpg"
+  },
+  {
+    "id": "6966812c-2917-469e-a47d-409f897fe5fe",
+    "sku": "KOM-W4311",
+    "name": "Mono Tag Yellow Lines",
+    "price": 69.0,
+    "inStock": true,
+    "isNew": false,
+    "isGender": "male",
+    "image": "./images/KOM-W4311.jpg"
+  },
+  {
+    "id": "cef38146-074a-4990-bb9c-d98026993859",
+    "sku": "KOM-W2283",
+    "name": "Winston Nato Neon Orange",
+    "price": 89.0,
+    "inStock": true,
+    "isNew": true,
+    "isGender": "male",
+    "image": "./images/KOM-W2283.jpg"
+  },
+
+  {
+    "id": "f78bfdc1-888a-494d-a5f8-ee4e45a74121",
+    "sku": "KOM-W4109",
+    "name": "Harlow Gold Mesh",
+    "price": 85.0,
+    "inStock": true,
+    "isNew": false,
+    "gender": "f",
+    "image": "./images/KOM-W4109.jpg"
+  },
+  {
+    "id": "a6311323-d79f-4d41-b572-2828c0659f1a",
+    "sku": "KOM-W4111",
+    "name": "Harlow Silver Mesh",
+    "price": 94.0,
+    "inStock": true,
+    "isNew": true,
+    "gender": "f",
+    "image": "./images/KOM-W4111.jpg"
+  },
+  {
+    "id": "9734b9a4-327b-4135-bb54-3fa9963ce330",
+    "sku": "KOM-W4306",
+    "name": "Mono Berry PACK",
+    "price": 59.0,
+    "inStock": true,
+    "isNew": true,
+    "gender": "f",
+    "image": "./images/KOM-W4306.jpg"
+  },
+  {
+    "id": "8fd0cb7a-8e98-44c3-8c7e-fa346138f4e7",
+    "sku": "KOM-W1202",
+    "name": "Moneypenny Gold Black",
+    "price": 49.0,
+    "inStock": true,
+    "isNew": false,
+    "gender": "f",
+    "image": "./images/KOM-W1202.jpg"
+  },
+  {
+    "id": "3d475174-a0bd-4de0-bc93-93d4438f97d2",
+    "sku": "L42743927",
+    "name": "Longines Flagship Ladies Watch",
+    "price": 128.0,
+    "inStock": true,
+    "isNew": false,
+    "gender": "f",
+    "image": "./images/L42743927.jpg"
+  },
+  {
+    "id": "97c59857-0f9f-4e5d-bf44-8f017548b80f",
+    "sku": "M0A10353",
+    "name": "Baume & Mercier Classima",
+    "price": 549.0,
+    "inStock": true,
+    "isNew": false,
+    "gender": "f",
+    "image": "./images/M0A10353.jpg"
+  },
+  {
+    "id": "6823e0f1-742a-47ba-b14b-f5abb429d021",
+    "sku": "AR11237",
+    "name": "Emporio Armani Ladies Watch",
+    "price": 179.0,
+    "inStock": true,
+    "isNew": true,
+    "gender": "f",
+    "image": "./images/AR11237.jpg"
+  }
+]
